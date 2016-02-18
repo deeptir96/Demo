@@ -1,0 +1,4 @@
+Hello everyone
+This is a file for git purposes
+Idk git!!!!!
+
